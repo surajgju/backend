@@ -1,6 +1,6 @@
 
 {
-  "name": "nodejs backend",
+  "name": "backend",
   "version": "1.0.1",
   "description": "Creating Node Package. This is a simple exmaple of creating node pakcage.",
   "main": "index.js",
