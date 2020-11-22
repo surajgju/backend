@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "Creating Node Package. This is a simple exmaple of creating node pakcage.",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
     
   },
   "keywords": [],
